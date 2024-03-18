@@ -11,6 +11,6 @@ int main() {
     Click on RUN CODE button
     */
     cout << "Sam is the best person in the universe";
-    cout << "Added this into demo branch";
+    cout << "Deleted this in demo branch";
     return 0;
 }
